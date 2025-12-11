@@ -133,7 +133,7 @@ Este repositorio está pensado como:
 **English**
 
 > Robles, Juan (2025). *MSB/MIB: a new indicator to complement GDP and UBI in digital economies. An integrated digital architecture: 1 tax, 1 dividend, 1 mobility indicators layer.*  
-> GitHub: https://github.com/YOUR-USER/msb-mib-gross-mobility  
+> GitHub: https://github.com/mroblesg88/msb-mib-gross-mobility  
 > ORCID: 0009-0006-0458-6186
 
 **Español**
